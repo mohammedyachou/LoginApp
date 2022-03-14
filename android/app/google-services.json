@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031841908496",
+    "project_id": "dubaigrocery-f2e2d",
+    "storage_bucket": "dubaigrocery-f2e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031841908496:android:2befa31443675ed6e58795",
+        "android_client_info": {
+          "package_name": "ae.grocerydubai.grocery_dubai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031841908496-np0ebmjvriruvon1v9s9alr2lur5204s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ae.grocerydubai.grocery_dubai",
+            "certificate_hash": "0346f6e7b2554f89eb8f656b06c63f43c6b6c665"
+          }
+        },
+        {
+          "client_id": "1031841908496-0c0lco3d5553ov6ijujhe945f74sq0la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgLclEvnRzPwqzgxZp8blTCAVVcFkuS98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031841908496-0c0lco3d5553ov6ijujhe945f74sq0la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
